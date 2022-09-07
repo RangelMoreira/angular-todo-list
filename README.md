@@ -1,16 +1,13 @@
 # App-todo
 
 
-
 # Sobre o projeto
 
 https://rangelmoreira.github.io/app-todo/
 
-O Todo-App é uma aplicação Frontend Angular desenvolvida durante o curso Curso de Angular 2 (v14+) Typescript do Básico ao Avançado
-, ministrado por Dener Troquatte.
+O Todo-App é uma aplicação Frontend Angular desenvolvida durante o curso Angular 2 (v14+) Typescript do Básico ao Avançado, ministrado por Dener São Pedro Troquatte.
 
-O software consiste em uma aplicação frontend pare gerenciamento de lista de tarefas, nesse projeto foi trabalhado conceitos do Angular como componentes, diretivas e pipes e etc além de conceitos de como trabalhar com localstorage.
-
+O software consiste em uma aplicação Frontend para gerenciamento de lista de tarefas, nesse projeto foi trabalhado conceitos do Angular como: componentes, diretivas, pipes e etc, além de conceitos de como trabalhar com localstorage.
 
 ## Layout web
 
