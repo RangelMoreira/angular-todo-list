@@ -14,9 +14,9 @@ O software consiste em uma aplicação frontend pare gerenciamento de lista de t
 
 ## Layout web
 
-![Web 1](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/home-frontend.png)
+![Web 1](https://raw.githubusercontent.com/RangelMoreira/app-todo/main/assets/tela1.png)
 
-![Web 2](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/catalogo-frontend.png)
+![Web 2](https://raw.githubusercontent.com/RangelMoreira/app-todo/main/assets/tela-com-tarefas.png)
 
 # Tecnologias utilizadas
 
