@@ -1,27 +1,49 @@
-# AppTodo
+# App-todo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Sobre o projeto
 
-## Code scaffolding
+https://rangelmoreira.github.io/app-todo/
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+O Todo-App é uma aplicação Frontend Angular desenvolvida durante o curso Curso de Angular 2 (v14+) Typescript do Básico ao Avançado
+, ministrado por Dener Troquatte.
 
-## Build
+O software consiste em uma aplicação frontend pare gerenciamento de lista de tarefas, nesse projeto foi trabalhado conceitos do Angular como componentes, diretivas e pipes e etc além de conceitos de como trabalhar com localstorage.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Layout web
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Web 1](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/home-frontend.png)
 
-## Running end-to-end tests
+![Web 2](https://raw.githubusercontent.com/RangelMoreira/dscatalog/main/assets/catalogo-frontend.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Tecnologias utilizadas
 
-## Further help
+- HTML / CSS / Scss/ JS / TypeScript
+- Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Implantação em produção
+
+- Front end web: Github pages
+
+# Como executar o projeto
+
+Pré-requisitos: npm
+
+```
+# clonar repositório
+git clone https://github.com/RangelMoreira/app-todo.git
+
+# instalar dependências
+npm install
+
+# executar o projeto
+npm start
+```
+
+# Autor
+
+Kevin Rangel Moreira
+
+https://www.linkedin.com/in/kevin-rangel-moreira/
